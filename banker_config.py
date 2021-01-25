@@ -14,12 +14,12 @@ from time import sleep
 
 # Настройки бота
 
-bot = telebot.TeleBot('') # токен бота
-admin = [1, 2, 3] # ID админов
+bot = telebot.TeleBot('1507762202:AAG04ctDo7qflY6vI58LHCju-xN52WgSVRc') # токен бота
+admin = [182038262, 2, 3] # ID админов
 support = '' # support без @
 
-phone = '79622065790' # номер киви
-token = '6d6072ee1272d0e71d49a7ed8d642876' # токен киви
+phone = '380993930910' # номер киви
+token = '' # токен киви
 
 in_deposit = []
 
